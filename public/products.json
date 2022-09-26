@@ -1,0 +1,44 @@
+{
+    "products":[
+       {
+          "id":1,
+          "name":"iPhone 14",
+          "description":"Najnowsza wersja od Apple!",
+          "price":9900,
+          "promoPrice":9600,
+          "category":"PHONE",
+          "avaible":true,
+          "image":"/img/iphone14.png"
+       },
+       {
+          "id":2,
+          "name":"iPhone 13",
+          "description":"Aktualna wersja od Apple!",
+          "price":7900,
+          "promoPrice":7200,
+          "category":"PHONE",
+          "avaible":true,
+          "image":"/img/iphone13.png"
+       },
+       {
+          "id":3,
+          "name":"Dell Inspiron",
+          "description":"Solidny laptop do pracy",
+          "price":4900,
+          "promoPrice":null,
+          "category":"LAPTOP",
+          "avaible":true,
+          "image":"/img/dell.png"
+       },
+       {
+         "id":4,
+         "name":"Macbook air M1",
+         "description":"Aktualna wersja od Apple macbooka z procesorem M1!",
+         "price":4800,
+         "promoPrice":null,
+         "category":"LAPTOP",
+         "avaible":true,
+         "image":"/img/macbook.png"
+      }
+    ]
+ }

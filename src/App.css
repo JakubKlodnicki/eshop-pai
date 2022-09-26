@@ -1,0 +1,50 @@
+body {
+    background: #edeff1;
+    /* background: #edeff1; */
+}
+
+.header {
+    display: flex;
+    /* margin-top: 50px; */
+    /* margin-left: 30px; */
+    /* justify-content: center; */
+    height: 150px;
+    /* width: 200px; */
+    /* width: 100%; */
+    background-color: white;
+}
+.cart-img {
+    display: flex;
+    align-items: center;
+}
+.cart-img img {
+    margin-right: 10px;
+}
+.header .alledrogo {
+    margin-top: 30px;
+    height: 50px;
+    margin-left: 30px;
+}
+.header .cartbutton {
+    display: flex;
+    /* margin-top: 50px; */
+    margin-top: 30px;
+    /* margin-left: 30px; */
+    margin-left: 800%;
+    /* justify-content: center; */
+    height: 50px;
+    width: 70px;
+    cursor: pointer;
+}
+.header .category {
+    margin-left: 28%;
+    margin-top: 40px;
+    /* margin-left: 30px; */
+}
+.header .category select {
+    width: 400px
+}
+
+.header h1 {
+    background-color: white;
+}
