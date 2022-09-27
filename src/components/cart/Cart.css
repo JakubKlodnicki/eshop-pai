@@ -45,3 +45,14 @@
     text-decoration: none;
     cursor: pointer;
   }
+  .deleteicon {
+    height: 25px;
+    cursor:pointer;
+  }
+  .clearcart {
+    width: 150px;
+    height: 37px;
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+  }
